@@ -21,7 +21,7 @@ public class Sobre extends JPanel {
 		titulo = new JLabel("Um Pouco Sobre a Empresa :  ");
 
 		sobre = new JTextArea(
-				"Com 15 anos de história, a concessionária SenaiCars é sinônimo de Qualidade em Campinas, no interior de São Paulo\n "
+				"Com 15 anos de história, a concessionária Cars é sinônimo de Qualidade em Campinas, no interior de São Paulo\n "
 						+ "Oferecemos a linha completa de carros zero km e uma ampla gama de serviços,\n "
 						+ "tudo com peças de qualidade e acessórios originais.\n"
 						+ " Além disso, dispomos de um estoque de mais de 500 veículos seminovos e as melhores taxas de financiamento\n de carros do mercado,\n"
